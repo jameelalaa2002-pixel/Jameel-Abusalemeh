@@ -1,0 +1,15 @@
+{
+  "_note": "SAMPLE DATA. Catalogue of medicines the bot recognises (names and aliases).",
+  "medicines": [
+    {"id": "paracetamol", "name": "بانادول (باراسيتامول)", "aliases": ["بانادول", "باراسيتامول", "panadol", "paracetamol", "اكامول"], "form": "حبوب", "rx": false},
+    {"id": "ibuprofen", "name": "بروفين (إيبوبروفين)", "aliases": ["بروفين", "ايبوبروفين", "brufen", "ibuprofen"], "form": "حبوب", "rx": false},
+    {"id": "loratadine", "name": "كلاريتين (لوراتادين)", "aliases": ["كلاريتين", "لوراتادين", "claritin", "loratadine"], "form": "حبوب", "rx": false},
+    {"id": "omeprazole", "name": "أوميبرازول", "aliases": ["اوميبرازول", "omeprazole", "لوزك"], "form": "كبسولات", "rx": false},
+    {"id": "vitc", "name": "فيتامين سي", "aliases": ["فيتامين سي", "فيتامين c", "vitamin c", "vit c"], "form": "حبوب فوّارة", "rx": false},
+    {"id": "ors", "name": "محلول الجفاف (ORS)", "aliases": ["محلول الجفاف", "ors", "محلول املاح"], "form": "أكياس", "rx": false},
+    {"id": "amoxicillin", "name": "أموكسيسيلين", "aliases": ["اموكسيسيلين", "اموكسيل", "amoxicillin", "amoxil"], "form": "كبسولات", "rx": true},
+    {"id": "metformin", "name": "ميتفورمين", "aliases": ["ميتفورمين", "جلوكوفاج", "metformin", "glucophage"], "form": "حبوب", "rx": true},
+    {"id": "insulin", "name": "إنسولين", "aliases": ["انسولين", "insulin"], "form": "حقن", "rx": true},
+    {"id": "salbutamol", "name": "فنتولين (بخاخ الربو)", "aliases": ["فنتولين", "بخاخ الربو", "سالبيوتامول", "ventolin", "salbutamol"], "form": "بخاخ", "rx": true}
+  ]
+}

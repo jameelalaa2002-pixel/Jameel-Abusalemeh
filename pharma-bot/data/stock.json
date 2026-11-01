@@ -1,0 +1,10 @@
+{
+  "_note": "SAMPLE DATA. Update this file (or connect a database) to keep availability current.",
+  "updated": "2026-11-02",
+  "stock": {
+    "ph1": {"paracetamol": {"qty": 30, "price": 1.5}, "ibuprofen": {"qty": 12, "price": 2.25}, "loratadine": {"qty": 8, "price": 3.0}, "vitc": {"qty": 20, "price": 4.5}, "amoxicillin": {"qty": 5, "price": 3.75}},
+    "ph2": {"paracetamol": {"qty": 15, "price": 1.5}, "omeprazole": {"qty": 10, "price": 5.0}, "ors": {"qty": 25, "price": 0.75}, "metformin": {"qty": 14, "price": 2.0}, "insulin": {"qty": 0, "price": 9.5}},
+    "ph3": {"paracetamol": {"qty": 40, "price": 1.75}, "ibuprofen": {"qty": 6, "price": 2.5}, "ors": {"qty": 10, "price": 0.8}, "salbutamol": {"qty": 4, "price": 3.2}, "insulin": {"qty": 3, "price": 9.75}, "omeprazole": {"qty": 7, "price": 5.25}},
+    "ph4": {"loratadine": {"qty": 18, "price": 2.9}, "vitc": {"qty": 9, "price": 4.25}, "ibuprofen": {"qty": 0, "price": 2.25}, "metformin": {"qty": 6, "price": 2.1}}
+  }
+}
